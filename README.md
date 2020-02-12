@@ -1,6 +1,6 @@
 # PowerShell_Zendesk
 
-This exercise will get you familiar working with Zendesk API in conjunction with PowerShell. It will also introduce PowerBI
+This exercise will get you familiar working with Zendesk API in conjunction with PowerShell. It will also introduce PowerBI.
 
 Zendesk is a customer service software that offers a ticketing system, among others, to help track, prioritise and solve customer support interaction. This exercise will focus on manipulating tickets.
 
