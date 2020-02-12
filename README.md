@@ -26,7 +26,7 @@ Zendesk makes use of REST API.
 ### Setting up Zendesk
 Create a free-trial account with Zendesk at [https://www.zendesk.com/](https://www.zendesk.com/). Note that the free-trial lasts for 2 weeks only.
 
-Once in, navigate the dashboard and find the '**Admin**' options at the toolbar on the left (also shaped as the gear icon). From **Admin > Channels > API**, enable '**Password Access**'. It is recommended to also enable 'Token Access' when using APIs across any services. However, for simplicity sake, this will be ignored for the exercise.
+Once in, navigate the dashboard and find the '**Admin**' option at the toolbar on the left. From **Admin > Channels > API**, enable '**Password Access**'. It is recommended to also enable 'Token Access' when using APIs across any services. However, for simplicity sake, this will be ignored for the exercise.
 
 To learn more about Zendesk's API, visit [https://developer.zendesk.com/rest_api/docs/zendesk-apis/resources](https://developer.zendesk.com/rest_api/docs/zendesk-apis/resources)
 
@@ -98,7 +98,7 @@ Create a PowerShell script with the following code inside:
 
 Replace {username} and {password} with your appropriate credentials.
 
-This script will essentially call the 'search' API, take the results of the response and pipe it into a CSV file.
+This script will essentially call the 'search' API, find all the tickets inside the system, take the results of the response and pipe it into a CSV file.
 
 ## PowerBI
 
