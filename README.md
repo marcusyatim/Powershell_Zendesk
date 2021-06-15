@@ -1,4 +1,4 @@
-# PowerShell_Zendesk
+# PowerShell Zendesk Tutorial
 
 This exercise will get you familiar working with Zendesk API in conjunction with PowerShell. It will also introduce PowerBI.
 
